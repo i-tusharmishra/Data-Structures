@@ -13,7 +13,7 @@ public class InvertedPyramidPattern {
 
         for (int i=0; i<n; i++) {
             //Initial Spaces
-            for (int j=0; j<=i; j++) {
+            for (int j=0; j<i; j++) {
                 System.out.print(" ");
             }
             //Stars, Formula = 2 * (n-i) - 1
