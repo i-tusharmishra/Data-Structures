@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class IncreasingNumberTriangle {
     public static void main(String[] args) {
         /* This code takes a number n input from user.
-        and Prints a INCREASING NUMBER PATTERN till n in n rows.
+        and Prints a INCREASING NUMBER PATTERN (column based) till n in n rows.
         Example: Input = 3
                  1
                  1 2
